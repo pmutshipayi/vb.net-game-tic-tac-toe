@@ -1,0 +1,11 @@
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\bin\Debug\Tic-tac game vb.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\bin\Debug\Tic-tac game vb.exe
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\bin\Debug\Tic-tac game vb.pdb
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\bin\Debug\Tic-tac game vb.xml
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\obj\Debug\Tic_tac_game_vb.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\obj\Debug\Tic_tac_game_vb.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\obj\Debug\Tic-tac game vb.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\obj\Debug\Tic-tac game vb.exe
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\obj\Debug\Tic-tac game vb.xml
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\obj\Debug\Tic-tac game vb.pdb
+c:\users\acer\documents\visual studio 2013\Projects\Tic-tac game vb\Tic-tac game vb\obj\Debug\Tic_tac_game_vb.form2.resources
